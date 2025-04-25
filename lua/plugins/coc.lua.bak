@@ -1,0 +1,7 @@
+local flsp = "feaf"
+
+local M = {
+  "neoclide/coc.nvim",
+}
+
+return M
